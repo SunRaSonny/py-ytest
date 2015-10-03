@@ -1,5 +1,5 @@
 cat+dog+scahed=1
-dog
+dogivy7 years
 cat
 ivy
 sonny
@@ -17,6 +17,9 @@ i000000
 wall
 pall
 6=8
-bino
-
-
+dino
+tau
+tau2=house=2bino
+sun
+jelly
+oakland
